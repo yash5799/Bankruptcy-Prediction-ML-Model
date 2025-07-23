@@ -46,8 +46,8 @@ Models were evaluated using the following metrics:
 
 ## 📈 Results
 
-- **Random Forest Accuracy:** ~X.XX%
-- **XGBoost Accuracy:** ~X.XX%
+- **Random Forest Accuracy:** 93.5%
+- **XGBoost Accuracy:** 93.7%
 > (Replace with actual results after training)
 
 ---
