@@ -73,7 +73,7 @@ Models were evaluated using the following metrics:
 **Yash Barapatre**  
 PGDM – Business Analytics  
 D.Y. Patil B-School  
-GitHub: [@YashBarapatre](https://github.com/YashBarapatre)
+GitHub: https://github.com/yash5799
 
 ---
 
